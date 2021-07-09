@@ -1,0 +1,91 @@
+[
+    {
+        "name": "Ayam Bakar Primarasa",
+        "address": "Jl. Gajahmada No.99D, Semarang 50134 Indonesia",
+        "category": "Nearby",
+        "description": "Ayam Bakar Primarasa merupakan sebuah restoran yang mengandalkan menu hidangan khas Jawa dengan bumbu-bumbu tradisional dan resep turun temurun oleh Ny. Susanty. Selain menu ayam bakar, Ayam Bakar Primarasa juga menyajikan aneka bakaran dan gorengan yang menggugah selera, lengkap dengan aneka sambal khas dengan harga relatif terjangkau.",
+        "foodRate": 4.0,
+        "serviceRate": 4.0,
+        "rateValue": 4.0,
+        "timeRange": "08:00-20:00",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/1b/ec/16/ta-img-20180220-182843.jpg",
+        "menu": [
+            {
+                "foodName": "Ayam Bakar/Goreng",
+                "foodDescription": "Sajian ayam bakar/goreng secara utuh",
+                "foodWeight": "1,5 Kg",
+                "foodImage": "https://images.unsplash.com/photo-1566918214014-a3b3e0132267?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZnJpZWQlMjBjaGlja2VufGVufDB8MnwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+                "deliveryCategory": "Open Delivery",
+                "foodPrice": "IDR 80.000",
+                "foodRating": 5.0
+            },
+            {
+                "foodName": "Ikan Bakar/Goreng",
+                "foodDescription": "Sajian ikan bakar/goreng secara utuh",
+                "foodWeight": "1 Kg",
+                "foodImage": "https://asset.kompas.com/crops/J0ARoySS4ZFviSelgHTMsxHPNv0=/0x0:1000x667/750x500/data/photo/2020/12/17/5fdb3cd0c1525.jpg",
+                "deliveryCategory": "Open Delivery",
+                "foodPrice": "IDR 120.000",
+                "foodRating": 5.0
+            },
+            {
+                "foodName": "Sate Ayam",
+                "foodDescription": "Sajian sate ayam 10 tusuk",
+                "foodWeight": "300 Gr",
+                "foodImage": "https://3.bp.blogspot.com/-RZ3RjrMcwLg/Wj6CFR1606I/AAAAAAAAFno/tMm4kC6U_20LgIT77tjxUZyWTEwqXn5RACEwYBhgL/w1200-h630-p-k-no-nu/Sate%2BSapi%2BSuruh%2B1.jpg",
+                "deliveryCategory": "Open Delivery",
+                "foodPrice": "IDR 28.000",
+                "foodRating": 4.0
+            }
+        ]
+    },
+    {
+        "name": "Kedai Beringin",
+        "address": "Jln. Imam Bonjol no 114 Between Jln Tanjung & Jln Imam Bonjol, Semarang 50132 Indonesia",
+        "category": "Nearby",
+        "description": "Restoran yang menyediakan berbagai olahan chinese food ini selalu ramai. Hal ini untungnya diimbangi dengan kapasitas ruang di Kedai Beringin yang cukup luas yang mungkin bisa memuat pengunjung hingga 150-an orang. Jadi walaupun ke sini di jam makan siang, saya tetap bisa memilih meja dan langsung dilayani oleh para pramusaji.",
+        "foodRate": 4.0,
+        "serviceRate": 4.0,
+        "rateValue": 4.0,
+        "timeRange": "08:00-20:00",
+        "imageUrl": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1566030719/ebs3qlzbkvqb6l9eswhm.jpg",
+        "menu": [
+            {
+                "foodName": "Nasi Hainan Bebek Panggang",
+                "foodDescription": "Sajian ayam dan bebek panggang adalah salah satu menu andalan di restoran ini.",
+                "foodWeight": "500 Gr",
+                "foodImage": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1566031096/vglqefiovwyaglnmypw3.jpg",
+                "deliveryCategory": "Open Delivery",
+                "foodPrice": "IDR 32.000",
+                "foodRating": 5.0
+            },
+            {
+                "foodName": "Mie Goreng Oriental",
+                "foodDescription": "Khusus untuk Mi Goreng Kedai Beringin, kamu akan mendapati mi dengan tekstur lembut dengan diameter yang lebih kecil dibandingkan bakmi pada umumnya.",
+                "foodWeight": "500 Gr",
+                "foodImage": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1566028836/q3vwk9nedj2wlexuxbfc.jpg",
+                "deliveryCategory": "Open Delivery",
+                "foodPrice": "IDR 30.000",
+                "foodRating": 5.0
+            },
+            {
+                "foodName": "Nasi Goreng Oriental",
+                "foodDescription": "Jika kamu suka dengan nasi goreng yang dimasak tanpa kecap, maka kamu akan menyukai nasi goreng dari dapur Kedai Beringin ini. Tampilan nasi goreng ini 'bersih' dan menggugah selera. Ciri khas nasi goreng yang dominasi rasanya adalah gurih asin dan bukan manis pedas.",
+                "foodWeight": "800 Gr",
+                "foodImage": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1566031358/ew2xakm94bxtcqavtqzy.jpg",
+                "deliveryCategory": "Open Delivery",
+                "foodPrice": "IDR 25.000",
+                "foodRating": 4.0
+            },
+            {
+                "foodName": "Tim Kaki Ayam",
+                "foodDescription": "Menu ini menjadi salah satu favorit di Kedai Beringin bersama dengan menu dimsum lainnya. Warnanya yang merah tua, tampak sangat menggugah selera. Setelah mencobanya, saya jadi paham kenapa menu ini jadi kesukaan. Selain karena teksturnya yang sangat lembut, bumbu saus tim ayam ini juga sangat enak dan pas.",
+                "foodWeight": "500 Gr",
+                "foodImage": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1566031385/btqnwmuac54sr5ecyowh.jpg",
+                "deliveryCategory": "Open Delivery",
+                "foodPrice": "IDR 30.000",
+                "foodRating": 4.0
+            }
+        ]
+    }
+]
